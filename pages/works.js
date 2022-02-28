@@ -29,7 +29,7 @@ const Works = () => {
           </Section>
           <Section>
             <WorkGridItem id='portfolio' title='First portfolio front-end' thumbnail={thumbPortfoliodrop}  >
-              This is my first 'good-looking' front end portfolio based on Next.js. I spent a week to made it. 😥
+              This is my second front end portfolio based on Next.js. This one is just modify version of this page.
             </WorkGridItem>
           </Section>
           <Section>
