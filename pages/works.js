@@ -28,7 +28,7 @@ const Works = () => {
             </WorkGridItem>
           </Section>
           <Section>
-            <WorkGridItem id='portfolio' title='First portfolio front-end' thumbnail={thumbPortfoliodrop}  >
+            <WorkGridItem id='portfolio' title='Another portfolio front-end' thumbnail={thumbPortfoliodrop}  >
               This is my second front end portfolio based on Next.js. This one is just modify version of this page.
             </WorkGridItem>
           </Section>
